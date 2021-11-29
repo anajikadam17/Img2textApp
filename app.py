@@ -9,6 +9,8 @@ st.title("Easy OCR - Extract Text from Images")
 #subtitle
 st.markdown("## Optical Character Recognition - Using `easyocr`, `streamlit` -  hosted on 🤗 Spaces")
 
+st.markdown("Link to the app - [Img2textApp on Github](https://github.com/anajikadam17/Img2textApp)")
+
 #image uploader
 image = st.file_uploader(label = "Upload your image here",type=['png','jpg','jpeg'])
 
