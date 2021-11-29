@@ -11,3 +11,7 @@ pinned: false
 
 # Img2textApp
 Demo of huggingface 🤗 spaces deployment of a streamlit python app
+
+-------
+### Huggingface Link:
+https://huggingface.co/spaces/AnajiKadam/first_App
